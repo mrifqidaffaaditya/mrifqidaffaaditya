@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ I am M. Rifqi Daffa Aditya or usually called Daichi Kei.<br>🖥️ I am a Beginner Programmer.<br>🎮 I am also a gamer.<br>🎂 I am still quite young, namely >16 years.<br>🇮🇩 I am a native Indonesian (WNI).
+☕ I am M. Rifqi Daffa Aditya or usually called Daichi Kei.<br>🖥️ I am a Beginner Programmer.<br>🎮 I am also a gamer.<br>🎂 I am still quite young, namely >17 years.<br>🇮🇩 I am a native Indonesian (WNI).
 
 
 ## 🌐 Socials:
