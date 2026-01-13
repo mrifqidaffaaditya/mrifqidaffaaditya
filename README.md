@@ -1,21 +1,93 @@
-# 💫 About Me:
-☕ I am M. Rifqi Daffa Aditya or usually called Daichi Kei.<br>🖥️ I am a Beginner Programmer.<br>🎮 I am also a gamer.<br>🎂 I am still quite young, namely >17 years.<br>🇮🇩 I am a native Indonesian (WNI).
+<div align="center">
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi,+I'm+M.+Rifqi+Daffa+Aditya;Founder+of+AiKei+Group;Minecraft+Plugin+Developer;Next.js+Web+Specialist" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifqidaffa_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@daichikei12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC1YSf6_F-AsoGGurSQ0PW0w) 
+  <br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrifqidaffaaditya&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrifqidaffaaditya&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrifqidaffaaditya&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p>
+    <a href="https://instagram.com/rifqidaffa_">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://tiktok.com/@daichikei12">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    </a>
+    <a href="https://youtube.com/@UC1YSf6_F-AsoGGurSQ0PW0w">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<br/>
+
+<h3>👨‍💻 About Me</h3>
+
+I am **Daichi Kei** (M. Rifqi Daffa Aditya), an aspiring **Software Engineer** from Indonesia 🇮🇩.  
+I specialize in building seamless digital experiences, bridging the gap between **Modern Web Development** and **Game Server Infrastructure**.
+
+* 🔭 **Founder:** Currently building the ecosystem for **AiKei Group**.
+* 💻 **Web Stack:** Expert in **Next.js**, **React**, and **Tailwind CSS** (Glassmorphism Enthusiast).
+* 🎮 **Game Dev:** Creating custom plugins for **PaperMC/Spigot** using Java.
+* ⚙️ **DevOps:** Managing **VPS**, **Pterodactyl Panels**, and **Nginx** deployments.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrifqidaffaaditya&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3>🛠️ Technical Arsenal</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><strong>Frontend & UI</strong></td>
+    <td align="center" width="25%"><strong>Backend & Database</strong></td>
+    <td align="center" width="25%"><strong>Minecraft & Game Dev</strong></td>
+    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PaperMC-F0F0F0?style=flat-square&logo=paper&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Spigot-FF6F00?style=flat-square&logo=java&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Pterodactyl-0C1D2E?style=flat-square&logo=pterodactyl&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrifqidaffaaditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrifqidaffaaditya&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="Streak Stats" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrifqidaffaaditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4" alt="Top Languages" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <sub>Let's build the future together with <strong>AiKei Group</strong>.</sub><br>
+  <img src="https://visitcount.itsvg.in/api?id=mrifqidaffaaditya&icon=2&color=2" />
+</div>
