@@ -72,22 +72,9 @@ I specialize in building seamless digital experiences, bridging the gap between 
 </table>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrifqidaffaaditya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrifqidaffaaditya&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="Streak Stats" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrifqidaffaaditya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4" alt="Top Languages" />
-</div>
-
-<br/>
 <hr/>
 
 <div align="center">
   <sub>Let's build the future together with <strong>AiKei Group</strong>.</sub><br>
-  <img src="https://visitcount.itsvg.in/api?id=mrifqidaffaaditya&icon=2&color=2" />
+  <img src="https://komarev.com/ghpvc/?username=mrifqidaffaaditya&label=Profile%20Views&color=06B6D4&style=flat-square" alt="Profile Views" />
 </div>
