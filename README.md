@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0891B2&height=220&section=header&text=Daichi%20Kei&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20of%20AiKei%20Group%20%7C%20Full%20Stack%20and%20Minecraft%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+M.+Rifqi+Daffa+Aditya+%F0%9F%91%8B;Founder+of+AiKei+Group;Minecraft+Plugin+Developer;Next.js+and+React+Specialist;Always+Building+Something+New+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+M.+Rifqi+Daffa+Aditya;Founder+of+AiKei+Group;Minecraft+Plugin+Developer;Next.js+and+React+Specialist;Always+Building+Something+New" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,9 +23,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 
-Saya **Daichi Kei** (M. Rifqi Daffa Aditya), seorang aspiring **Software Engineer** dari Indonesia 🇮🇩.
+Saya **Daichi Kei** (M. Rifqi Daffa Aditya), seorang aspiring **Software Engineer** dari Indonesia.
 Fokus saya adalah membangun pengalaman digital yang mulus, menjembatani antara **Modern Web Development** dan **Game Server Infrastructure**.
 
 ```yaml
@@ -33,12 +33,12 @@ Founder:   "Sedang membangun ekosistem AiKei Group"
 WebStack:  "Next.js, React, Tailwind CSS (Glassmorphism Enthusiast)"
 GameDev:   "Custom plugin PaperMC/Spigot dengan Java"
 DevOps:    "VPS, Pterodactyl Panel, Nginx Deployment"
-Status:    "Open untuk kolaborasi & proyek baru 🚀"
+Status:    "Open untuk kolaborasi dan proyek baru"
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
@@ -77,7 +77,7 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mrifqidaffaaditya/mrifqidaffaaditya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
@@ -115,7 +115,7 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
-## ☕ Support & Contact
+## Support & Contact
 
 <div align="center">
 
