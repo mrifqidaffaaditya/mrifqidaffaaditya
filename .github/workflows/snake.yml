@@ -56,6 +56,14 @@ jobs:
           path: dist/pin-wa-akg.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Pinned Repo card (WA-AKG-Business)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=WA-AKG-Business&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9"
+          path: dist/pin-wa-akg-business.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       # 3) Streak & Activity Graph masih dari layanan lain (belum dilaporkan mati),
       #    tetap di-cache jadi file statis untuk jaga-jaga kalau kena rate limit.
       - name: Cache Streak Stats card
