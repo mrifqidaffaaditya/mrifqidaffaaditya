@@ -90,9 +90,6 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 
 </div>
 
-> ⚙️ **Kenapa diganti ke link `raw.githubusercontent.com`?** Server publik gratisan (`github-readme-stats.vercel.app`, dkk) sering kelebihan beban → muncul "Error Fetching Resource". Solusinya: file-file di atas sekarang **di-generate & di-cache otomatis** oleh workflow GitHub Actions kamu (file `snake.yml`, sudah diperbarui — sekalian cache 4 kartu ini + snake dalam satu jalan) ke branch `output` di repo `mrifqidaffaaditya/mrifqidaffaaditya`, jadi README baca dari repo sendiri, bukan nunggu server pihak ketiga tiap kali dibuka. Auto-refresh tiap 12 jam.
-> Kalau kamu **belum** setup GitHub Actions-nya, ikuti langkah di bagian Contribution Snake di bawah — satu workflow ini sekaligus mengisi snake + 4 kartu stats ini.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
 ## 🚀 Featured Projects
@@ -102,13 +99,12 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 <a href="https://github.com/mrifqidaffaaditya/WA-AKG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrifqidaffaaditya&repo=WA-AKG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/mrifqidaffaaditya/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrifqidaffaaditya&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" />
+<a href="https://github.com/mrifqidaffaaditya/WA-AKG-Business">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrifqidaffaaditya&repo=WA-AKG-Business&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" />
 </a>
 
 </div>
 
-> `WA-AKG` sudah otomatis terisi dari repo asli kamu. Ganti `REPO-2` dengan nama repository lain yang ingin ditampilkan (bisa tambah lebih banyak card dengan pola yang sama).
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
@@ -118,25 +114,16 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 <img src="https://raw.githubusercontent.com/mrifqidaffaaditya/mrifqidaffaaditya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 </div>
 
-> ⚙️ **Cara aktifkan (sekali saja, ±2 menit) — workflow ini sekaligus generate Snake DAN 4 kartu stats di atas:**
-> 1. Buat repository baru bernama **persis sama** dengan username kamu: `mrifqidaffaaditya/mrifqidaffaaditya` (kalau belum ada). Repo ini otomatis jadi profil README GitHub kamu.
-> 2. Di repo itu, buat folder `.github/workflows/` lalu upload file `snake.yml` yang sudah saya buatkan (lihat file terpisah di jawaban ini — sudah diperbarui, isinya snake + cache 4 kartu stats).
-> 3. Buka tab **Actions** di repo tsb → pilih workflow **"Generate Profile Widgets"** → klik **Run workflow** untuk generate pertama kali.
-> 4. Setelah selesai (✅ hijau), semua gambar snake & stats di README ini akan otomatis muncul dan ter-update sendiri setiap 12 jam.
->
-> 📌 Catatan soal URL: pastikan pakai format `raw.githubusercontent.com/USER/USER/output/nama-file` (branch langsung, **tanpa** `refs/heads/` di tengahnya) — link yang kamu kirim kemarin (`.../refs/heads/output`) itu format URL halaman GitHub biasa, bukan format `raw.githubusercontent.com` yang dipakai untuk nge-embed gambar.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
 ## ☕ Support & Contact
 
 <div align="center">
 
-<a href="https://saweria.co/rifqidaffa"><img src="https://img.shields.io/badge/Saweria-FFC107?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Saweria"/></a>
-<a href="mailto:hello@aikei.group"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://saweria.co/mrifqidaffaaditya"><img src="https://img.shields.io/badge/Saweria-FFC107?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Saweria"/></a>
+<a href="mailto:contact@aikeigroup.net"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/62"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-> Ganti link Saweria, Email, dan WhatsApp dengan kontak aktif kamu.
 
 </div>
 
