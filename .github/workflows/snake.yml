@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Widgets
 
 on:
   schedule:
@@ -15,6 +15,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Buat folder output
+        run: mkdir -p dist
+
+      # 1) Snake contribution animation
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
@@ -22,6 +26,24 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 2) Cache kartu-kartu stats sebagai file statis di repo sendiri,
+      #    supaya README tidak bergantung ke server publik yang sering down/rate-limited.
+      - name: Cache GitHub Stats card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9&count_private=true" -o dist/stats.svg
+
+      - name: Cache Top Languages card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9" -o dist/top-langs.svg
+
+      - name: Cache Streak Stats card
+        run: |
+          curl -sL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" -o dist/streak.svg
+
+      - name: Cache Activity Graph card
+        run: |
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=06B6D4&point=ffffff" -o dist/activity-graph.svg
 
       - name: Push ke branch output
         uses: crazy-max/ghaction-github-pages@v4
