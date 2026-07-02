@@ -97,14 +97,13 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 <div align="center">
 
 <a href="https://github.com/mrifqidaffaaditya/WA-AKG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrifqidaffaaditya&repo=WA-AKG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" />
+  <img src="https://raw.githubusercontent.com/mrifqidaffaaditya/mrifqidaffaaditya/output/pin-wa-akg.svg" />
 </a>
 <a href="https://github.com/mrifqidaffaaditya/WA-AKG-Business">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrifqidaffaaditya&repo=WA-AKG-Business&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" />
+  <img src="https://raw.githubusercontent.com/mrifqidaffaaditya/mrifqidaffaaditya/output/pin-wa-akg-business.svg" />
 </a>
 
 </div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0891B2&height=3&width=1000" width="100%"/>
 
@@ -123,7 +122,6 @@ Status:    "Open untuk kolaborasi & proyek baru 🚀"
 <a href="https://saweria.co/mrifqidaffaaditya"><img src="https://img.shields.io/badge/Saweria-FFC107?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Saweria"/></a>
 <a href="mailto:contact@aikeigroup.net"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/62"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
 
 </div>
 
